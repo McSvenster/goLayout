@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# secrets
+*key-file.json
+*.env*
+*.secrets*
+
+# logs
+*logs/*
+*.log*
+
+# temporary
+*tmp/*
