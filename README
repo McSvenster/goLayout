@@ -1,0 +1,7 @@
+# my go starting point
+
+This is just my approach to a new go app, kind of an initial layout
+
+I start flat within ./pkg and create a folder structure when needed as the application evolves.
+
+I like to use yaml-configuration files within a conf.d.

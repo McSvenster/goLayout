@@ -1,0 +1,8 @@
+TempDir: ./tmp_results
+LogLevel: DEBUG
+LogFolder: ./logs/
+API:
+  URL: https://MyApiSPath/
+Mail:
+  Host: MyMail.server
+  Address: MyMail@address.com
